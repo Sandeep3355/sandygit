@@ -1,1 +1,1 @@
-# sandygit
+# sandygit.git
